@@ -12,6 +12,7 @@
 		860944301F1308030042FDBD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8609442E1F1308030042FDBD /* Main.storyboard */; };
 		860944321F1308040042FDBD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 860944311F1308040042FDBD /* Assets.xcassets */; };
 		860944351F1308040042FDBD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 860944331F1308040042FDBD /* LaunchScreen.storyboard */; };
+		8609443D1F13092F0042FDBD /* Events.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8609443C1F13092F0042FDBD /* Events.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		860944311F1308040042FDBD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		860944341F1308040042FDBD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		860944361F1308040042FDBD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8609443C1F13092F0042FDBD /* Events.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Events.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				8609442A1F1308030042FDBD /* AppDelegate.swift */,
 				8609442C1F1308030042FDBD /* ViewController.swift */,
+				8609443C1F13092F0042FDBD /* Events.plist */,
 				8609442E1F1308030042FDBD /* Main.storyboard */,
 				860944311F1308040042FDBD /* Assets.xcassets */,
 				860944331F1308040042FDBD /* LaunchScreen.storyboard */,
@@ -127,6 +130,7 @@
 				860944351F1308040042FDBD /* LaunchScreen.storyboard in Resources */,
 				860944321F1308040042FDBD /* Assets.xcassets in Resources */,
 				860944301F1308030042FDBD /* Main.storyboard in Resources */,
+				8609443D1F13092F0042FDBD /* Events.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

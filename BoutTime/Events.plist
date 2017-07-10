@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Date</key>
+		<date>2016-01-01T00:14:28Z</date>
+		<key>Statement</key>
+		<string>Three nanotechnologists win the Nobel Prize in Chemistry</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/nanotechnologyforkids.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>2013-01-01T00:14:28Z</date>
+		<key>Statement</key>
+		<string>Elon Musk announces &quot;Hyperloop&quot;</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/pneumatic-tube-transport.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>2010-01-02T00:14:28Z</date>
+		<key>Statement</key>
+		<string>3D TV</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/how-3d-tv-works.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>2010-01-01T00:14:28Z</date>
+		<key>Statement</key>
+		<string>Apple releases its touchscreen tablet computer, the iPad.</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/howcomputerswork.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>2007-01-02T00:14:28Z</date>
+		<key>Statement</key>
+		<string>Apple introduces a touchscreen cellphone called the iPhone.</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/cellphones.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>2007-01-01T00:14:28Z</date>
+		<key>Statement</key>
+		<string>Amazon.com launches its Kindle electronic book (e-book) reader.</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/ebooks.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>2002-01-01T00:14:28Z</date>
+		<key>Statement</key>
+		<string>iRobot Corporation releases the first version of its Roomba® vacuum cleaning robot.</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/how-roomba-works.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>2001-01-01T00:14:28Z</date>
+		<key>Statement</key>
+		<string>Scott White, Nancy Sottos, and colleagues develop self-healing materials.</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/self-healing-materials.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>2001-01-01T00:14:28Z</date>
+		<key>Statement</key>
+		<string>Apple revolutionizes music listening by unveiling its iPod MP3 music player.</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/how-mp3players-work.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>2001-01-02T00:14:28Z</date>
+		<key>Statement</key>
+		<string>Richard Palmer develops energy-absorbing D3O plastic.</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/energy-absorbing-materials.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>2001-01-03T00:14:28Z</date>
+		<key>Statement</key>
+		<string>The Wikipedia online encyclopedia is founded by Larry Sanger and Jimmy Wales.</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/ebooks.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>2001-01-04T00:14:28Z</date>
+		<key>Statement</key>
+		<string>Bram Cohen develops BitTorrent file-sharing.</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/howbittorrentworks.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>1995-01-01T00:14:28Z</date>
+		<key>Statement</key>
+		<string>Broadcast.com becomes one of the world&apos;s first online radio stations</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/streamingmedia.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>1995-01-02T00:14:28Z</date>
+		<key>Statement</key>
+		<string>Pierre Omidyar launches the eBay auction website.</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/ecommerce.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>1996-01-01T00:14:28Z</date>
+		<key>Statement</key>
+		<string>WRAL-HD broadcasts the first high-definition television (HDTV)</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/hdtv.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>1997-01-01T00:14:28Z</date>
+		<key>Statement</key>
+		<string>Electronics companies agree to make Wi-Fi a worldwide standard for wireless Internet.</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/wirelessinternet.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>1989-01-01T00:14:28Z</date>
+		<key>Statement</key>
+		<string>Tim Berners-Lee invents the World Wide Web</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/internet.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>1990-01-01T00:14:28Z</date>
+		<key>Statement</key>
+		<string>The world&apos;s first radio-controlled wristwatch.</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/howradiocontrolledclockswork.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>1991-01-01T00:14:28Z</date>
+		<key>Statement</key>
+		<string>Linus Torvalds creates the first version of Linux.</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/howcomputerswork.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>1994-01-01T00:14:28Z</date>
+		<key>Statement</key>
+		<string>Invention of VoIP</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/how-voip-works.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>1687-01-01T01:34:36Z</date>
+		<key>Statement</key>
+		<string>Isaac Newton formulates his three laws of motion.</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/motion.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>1703-01-01T01:34:36Z</date>
+		<key>Statement</key>
+		<string>Binary number system now used in virtually all computers</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/howcomputerswork.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>1712-01-01T01:34:36Z</date>
+		<key>Statement</key>
+		<string>Thomas Newcomen builds the first practical steam engine.</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/steamengines.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>1757-01-01T01:34:36Z</date>
+		<key>Statement</key>
+		<string>John Campbell invents the sextant</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/howgpsworks.html</string>
+	</dict>
+	<dict>
+		<key>Date</key>
+		<date>1800-01-01T01:34:36Z</date>
+		<key>Statement</key>
+		<string>Italian Alessandro Volta makes the first battery</string>
+		<key>URL</key>
+		<string>http://www.explainthatstuff.com/electricity.html</string>
+	</dict>
+</array>
+</plist>
